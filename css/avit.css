@@ -1,0 +1,93 @@
+body{
+    background:#fff !important;
+}
+
+.av_wrap{
+    margin:10px;
+    padding:10px;
+    background:#ddd;
+}
+.avit_info{
+    
+    border:1px solid #ccc;
+    background:#fff;
+    margin:10px;
+    padding:15px;
+    clear:left;
+    display:block;
+}
+.ventana{
+    
+    margin:10px 5px;
+    padding:5px;
+    padding-right:10px;
+    background: #E3E9F2;
+    border-radius:9px;
+    -moz-border-radius:9px;
+    -webkit-border-radius:9px;
+    
+    border:1px solid   #B0C1DB;
+    
+}
+.ventana > h3, .ventana form > h3{
+    padding:8px 5px;
+    margin:5px;
+    background:#fff;
+    color: #3871A2;
+    border:1px solid  #ADBDDA;
+    border-radius:9px;
+    -moz-border-radius:9px;
+    -webkit-border-radius:9px;
+}
+.ventana table{
+    padding:3px;
+    margin:3px;
+    background:#fff;
+    border:0px !important;
+    border-radius:9px;
+    -moz-border-radius:9px;
+    -webkit-border-radius:9px;
+}
+.tr_odd{
+    background:#f5f5f5;
+}
+.mensaje{
+    padding:5px;
+    border:1px solid #999;
+    font-size:10px;
+    font-weight:bold;
+    letter-spacing:1px;
+    
+}
+.mensaje.error{
+    background: #FFD9D9;
+}
+.mensaje.ok{
+    background: #DEFFD9;
+}
+.avit_info h2{
+    
+}
+
+.avit_menu{
+    display:block;
+    clear:both;
+    width:100%;
+    margin:10px;
+    padding:5px;
+    border-bottom:1px solid #eee;
+    min-height:30px;
+}
+
+.avit_div_form{
+    
+    margin:5px;
+    padding:5px;
+    background:#fff;
+    border-radius:9px;
+    -moz-border-radius:9px;
+    -webkit-border-radius:9px;
+}
+p.submit{
+    clear:both;
+}
